@@ -4,4 +4,4 @@
   * **[John Hopkins Üniversitesi Veri Analiz Sayfası](https://coronavirus.jhu.edu/data)**: Yeni vakaların, ölüm oranlarının ve virüs yayılımının analiz edildiği ve etkileşimli grafiklerle sunulduğu web sitesi.
 * **[TC Sağlık Bakalığı](https://covid19.saglik.gov.tr/)**: Türkiyedeki verilerin günlük olarak yayınlandığu site. Her gün saat 20.00 civarlarında yeni sayılar açıklanıyor. Günlük veriler HTML parse edilerek elde edilebilir.
 * **[TC Cumhurbaşkanlığı Dijital Dönüşüm Ofisi](https://corona.cbddo.gov.tr/):** Sitede Türkiye ve dünya genelindeki sayılar etkileşimli bir şekilde sunuluyor, sitede şehirlere göre görüntüleme seçeneği mevcut ancak şu an için (11 Nisan 2020) Türkiye Şehir bilgileri mevcut değil.
-* [Tübitak Covid-19 Web Portalı](https://covid19.tubitak.gov.tr/): Türkiye ve dünyadaki son sayıları yayınlıyor, aynı zamanda haberlr ve salgından korunma yolları ile ilgili yazılar içeriyor.
+* **[Tübitak Covid-19 Web Portalı](https://covid19.tubitak.gov.tr/):** Türkiye ve dünyadaki son sayıları yayınlıyor, aynı zamanda haberlr ve salgından korunma yolları ile ilgili yazılar içeriyor.
